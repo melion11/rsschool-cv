@@ -1,2 +1,1 @@
-#testCV
-git
+https://melion11.github.io/rsschool-cv/cv
